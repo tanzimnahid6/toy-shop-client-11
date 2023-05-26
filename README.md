@@ -13,4 +13,4 @@
 --You can only update(Price, available quantity, Detail description)
 ## Live Link
 
-- [CHEF RECIPE](https://toy-shop-9d06b.web.app/)
+- [Turbo Car](https://toy-shop-9d06b.web.app/)
